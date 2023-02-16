@@ -1,5 +1,5 @@
 module SunriseSunset
 
-# Write your package code here.
+test = 1
 
 end
